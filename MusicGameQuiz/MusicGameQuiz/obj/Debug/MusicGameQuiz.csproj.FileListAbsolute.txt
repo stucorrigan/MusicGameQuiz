@@ -1,0 +1,19 @@
+C:\Users\scorrigan\source\repos\MusicGameQuiz\MusicGameQuiz\bin\Debug\MusicGameQuiz.exe.config
+C:\Users\scorrigan\source\repos\MusicGameQuiz\MusicGameQuiz\bin\Debug\MusicGameQuiz.exe
+C:\Users\scorrigan\source\repos\MusicGameQuiz\MusicGameQuiz\bin\Debug\MusicGameQuiz.pdb
+C:\Users\scorrigan\source\repos\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.csprojAssemblyReference.cache
+C:\Users\scorrigan\source\repos\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.Form1.resources
+C:\Users\scorrigan\source\repos\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.Form2.resources
+C:\Users\scorrigan\source\repos\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.Properties.Resources.resources
+C:\Users\scorrigan\source\repos\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.csproj.GenerateResource.cache
+C:\Users\scorrigan\source\repos\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.csproj.CoreCompileInputs.cache
+C:\Users\scorrigan\source\repos\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.exe
+C:\Users\scorrigan\source\repos\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.pdb
+C:\Users\scorrigan\Documents\VS Apps\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.csprojAssemblyReference.cache
+C:\Users\scorrigan\Documents\VS Apps\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.Form1.resources
+C:\Users\scorrigan\Documents\VS Apps\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.Form2.resources
+C:\Users\scorrigan\Documents\VS Apps\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.Properties.Resources.resources
+C:\Users\scorrigan\Documents\VS Apps\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.csproj.GenerateResource.cache
+C:\Users\scorrigan\Documents\VS Apps\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.csproj.CoreCompileInputs.cache
+C:\Users\scorrigan\Documents\VS Apps\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.exe
+C:\Users\scorrigan\Documents\VS Apps\MusicGameQuiz\MusicGameQuiz\obj\Debug\MusicGameQuiz.pdb
